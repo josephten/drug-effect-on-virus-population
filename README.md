@@ -72,8 +72,7 @@ As the treatment drugs seem to have very little effect on the amount of virus pa
 
 ###Limitations
 
-Just because the virus population seems to increase about the same with or without the treatment drugs, it doesn't neccearily mean they are both doing the same thing as the drugs could be increasing the virus population from a different virus that is actually healthy for the patient and helping fight off the orginal dangerous virus, and we didn't differentiate this in the analysis.
-
+Just because the virus population seems to increase about the same with or without the treatment drugs, it doesn't neccearily mean they are both doing the same thing as the drugs could be increasing the virus population from a different virus that is actually healthy for the patient and helping fight off the orginal dangerous virus, and we didn't differentiate this in the analysis
 
 
 

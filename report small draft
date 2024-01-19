@@ -1,23 +1,23 @@
-# drug-effect-on-virus-population
-###Project overview
+# Drug-effect-on-virus-population
+### Project overview
 
 My aim is to Design and implement a stochastic simulation of patient and population dynamics on python and reach a conclusion about treatment regimens based on the simulation results.
 
-###Data sources 
+### Data sources 
 
 the primary data sources used for this analysis is "ocw.mit.edu" file, containing details about the max probabilty that a virus particle reproduces with and without drugs and probabilty of mutations in a virus particles offspring.
 
-###Tools
+### Tools
 
 Python
 
-###Exploratory data analysis
+### Exploratory data analysis
 
 EDA involved exploring the simulations performed to answer the key question;
 
 - The virus population after using treatment drugs compared to without treatment drugs.
 
-###Data analysis
+### Data analysis
 
 ```Python
 def simulationWithDrug(numViruses, maxPop, maxBirthProb, clearProb, resistances,
@@ -54,7 +54,7 @@ def simulationWithDrug(numViruses, maxPop, maxBirthProb, clearProb, resistances,
     pylab.legend()
     pylab.show()
 ```
-###results/findings
+### Results/findings
 
 Based on the analysis, we found the following:
 
@@ -66,11 +66,11 @@ Based on the analysis, we found the following:
 
 So from this data the null hypothsis sees to be true, that is there is little evidence to suggest that there is a statistical sagnificance between using the treatment drugs or not on the virus particle population.
 
-###recommendations
+### Recommendations
 
 As the treatment drugs seem to have very little effect on the amount of virus particles we may need to create a new drug.
 
-###Limitations
+### Limitations
 
 Just because the virus population seems to increase about the same with or without the treatment drugs, it doesn't neccearily mean they are both doing the same thing as the drugs could be increasing the virus population from a different virus that is actually healthy for the patient and helping fight off the orginal dangerous virus, and we didn't differentiate this in the analysis
 

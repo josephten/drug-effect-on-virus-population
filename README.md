@@ -64,7 +64,7 @@ Based on the analysis, we found the following:
 
 - the virus seems to also spread about the same rate on both the drug and no treatment drugs, this is after around 150 hours for both.
 
-So from this data the null hypothsis sees to be true, that is there is little evidence to suggest that there is a statistical sagnificance between using the treatment drugs or not on the virus particle population.
+So from this data the null hypothsis sees to be true, that is there is little evidence to suggest that there is a statistical significance between using the treatment drugs or not on the virus particle population.
 
 ### Recommendations
 
